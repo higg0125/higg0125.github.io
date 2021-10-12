@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    font-size: 18px;
+}
+
+header, footer {
+background-color:indigo;
+}
+
+.site-title {
+    color: lightskyblue;
+}
+
+#my-image {
+    box-shadow: 0 0 2px 1px rgb(0, 0, 0); 
+}
