@@ -20,3 +20,14 @@ ul {
 li:nth-child(odd) { 
     background-color: thistle;
 }
+#myDIV {
+    text-decoration-line:none;
+} 
+a {
+    text-decoration: none;
+    border: 2px solid greenyellow;
+}
+a:hover {
+   background-color: firebrick;
+   border: 2px solid greenyellow;
+}
