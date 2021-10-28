@@ -1,0 +1,10 @@
+header {
+    padding: 10px;
+    text-align: center;
+    text-transform: uppercase;
+    color: firebrick;
+    background-image: url('../images/bak101.jpeg');
+    font-size:xx-large;
+    font-family: Georgia
+}
+
