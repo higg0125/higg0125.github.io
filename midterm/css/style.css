@@ -7,10 +7,11 @@ header {
     font-size:xx-large;
     font-family: Georgia
 }
-
+img{
+    padding: 10px;
+}
 .left {
     float: left;
-    padding: 0 10px 0 0;
 }
 
 body{
