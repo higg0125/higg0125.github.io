@@ -8,3 +8,26 @@ header {
     font-family: Georgia
 }
 
+.left {
+    float: left;
+    padding: 0 10px 0 0;
+}
+
+body{
+    background-color: gold;
+    background-size: cover;
+}
+
+li{
+    float:left;
+    background-color: ivory;
+    text-decoration: none;
+    display: inline;
+}
+
+a{
+    text-decoration: none;
+    display: block;
+    background-color:forestgreen;
+    padding: 20px%;
+}
