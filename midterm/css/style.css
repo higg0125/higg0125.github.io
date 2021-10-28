@@ -5,7 +5,7 @@ header {
     color: firebrick;
     background-image: url('../images/bak101.jpeg');
     font-size:xx-large;
-    font-family: Georgia
+    font-family: Georgia;
 }
 img{
     padding: 10px;
@@ -17,6 +17,10 @@ img{
 body{
     background-color: gold;
     background-size: cover;
+}
+
+ul{
+    overflow: hidden;
 }
 
 li{
