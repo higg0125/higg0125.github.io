@@ -6,6 +6,7 @@ header {
     background-image: url('../images/bak101.jpeg');
     font-size:xx-large;
     font-family: Georgia;
+    background-repeat: no-repeat;
 }
 img{
     padding: 10px;
