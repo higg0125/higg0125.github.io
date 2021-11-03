@@ -2,11 +2,12 @@ header {
     padding: 10px;
     text-align: center;
     text-transform: uppercase;
-    color: firebrick;
-    background-image: url('../images/bak101.jpeg');
+    color: rgb(121, 13, 13);
+    background-image: url('../images/prince.jpeg');
     font-size:xx-large;
     font-family: Georgia;
-    background-repeat: no-repeat;
+   background-repeat: no-repeat;
+   background-size: cover;
 }
 img{
     padding: 10px;
