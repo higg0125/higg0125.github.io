@@ -81,3 +81,20 @@ background-color: #222;
     background-color: #c78c06;
     color: white;
 }
+
+table{
+    width: 100%;
+}
+
+table, tr, th, td{
+    border: 1px solid black;
+}
+
+th, td{
+    padding: 1em 0;
+}
+
+th{
+    background-color: #ffe6ac;
+}
+
