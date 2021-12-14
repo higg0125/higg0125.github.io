@@ -51,12 +51,6 @@ table {
                                     Start
 ------------------------------------------------------------------------------*/
 
-@media screen and (max-width: 760px) {
-    body {
-      background-color: white;
-    }
-  }
-
 body { 
 	max-width: 1200px; 
 	margin: 0 auto !important; 
@@ -69,13 +63,15 @@ background-color: #222;
 }
 
 .topnav a {
-    float: center;
+    display: flex; 
+    flex-direction: column ; 
     color: #c78c06;
     text-align: center;
     padding: 20px 20px;
     text-decoration: none;
     font-size: 17px;   
 }
+
 
 .topnav a.active {
     background-color: #c78c06;
