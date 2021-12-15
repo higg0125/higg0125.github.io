@@ -55,6 +55,25 @@ body {
 	max-width: 1200px; 
 	margin: 0 auto !important; 
 	float: none !important; 
+    font-family: 'Open Sans', sans-serif ;
+}
+
+.search{
+    background-color: #222;
+}
+  
+
+#search{
+
+    width: 80%;
+    padding: 12px;
+    float: left;
+}
+
+.glass{
+    
+    color: #c78c06;
+    border: 1px solid #c78c06;
 }
 
 .topnav {
@@ -72,6 +91,14 @@ background-color: #222;
     font-size: 17px;   
 }
 
+.active{
+
+}
+
+.logo{
+  background-color: #c78c06;  
+}
+
 .about{
     background-color: #ffe6ac;
     padding: 15px;
@@ -84,7 +111,7 @@ background-color: #222;
 
 .topnav a.active {
     background-color: #c78c06;
-    color: white;
+    color: #222;
 }
 
 table{
