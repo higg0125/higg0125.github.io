@@ -72,6 +72,15 @@ background-color: #222;
     font-size: 17px;   
 }
 
+.about{
+    background-color: #ffe6ac;
+    padding: 15px;
+
+}
+
+#my-image-2 {
+    width: 100%;
+}
 
 .topnav a.active {
     background-color: #c78c06;
